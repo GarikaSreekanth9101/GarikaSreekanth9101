@@ -2,7 +2,7 @@
 
 ## 🚀 Senior iOS Developer | Swift | SwiftUI | UIKit | MVVM
 
-I'm a passionate **Senior iOS Developer** with **6+ years of experience** building scalable, high-performance iOS applications. I specialize in **Swift, SwiftUI, UIKit, MVVM, Combine, RxSwift, Firebase**, and modern iOS architecture.
+I'm a passionate **Senior iOS Developer** with **7 years of experience** building scalable, high-performance iOS applications. I specialize in **Swift, SwiftUI, UIKit, MVVM, Combine, RxSwift, Firebase**, and modern iOS architecture.
 
 💼 Currently working as a **Senior iOS Developer** at **Lorhan IT**.
 
@@ -10,7 +10,7 @@ I'm a passionate **Senior iOS Developer** with **6+ years of experience** buildi
 
 ## 👨‍💻 About Me
 
-- 📱 6+ Years of Professional iOS Development Experience
+- 📱 7 Years of Professional iOS Development Experience
 - 💙 Swift | SwiftUI | UIKit | Objective-C
 - 🏗️ MVVM | Clean Architecture | SOLID Principles
 - 🔥 Firebase | Push Notifications | CallKit
